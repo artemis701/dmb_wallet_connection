@@ -1,2 +1,2 @@
-# dmb_wallet_connection
-This is wallet connection frontend site for DMB block chain.
+# digitaldollar_wallet_connection
+This is the wallet connection testing project for digital dollar chain.
